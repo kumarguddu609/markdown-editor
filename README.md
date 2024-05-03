@@ -1,4 +1,35 @@
-# Getting Started with Create React App
+# Markdown Editor
+
+This project is a Markdown editor built with React. It allows users to input Markdown text on one side and view the rendered output on the other side in real-time.
+
+## Live Demo
+
+You can find a live demo of this project [here](#) [Provide live link here].
+
+## Features
+
+- Input Markdown text in the left box.
+- View rendered output in the right box.
+- Real-time updates as you type.
+- Copy Markdown text to clipboard.
+- Scrollable input area for longer texts.
+- Visually appealing design with equal-width input and output boxes.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js installed on your local machine.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone <repository-url>
+   ```
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
